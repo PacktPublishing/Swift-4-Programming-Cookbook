@@ -1,5 +1,5 @@
-# Swift 3 Programming Cookbook
-This is the code repository for [Swift 3 Programming Cookbook](https://www.packtpub.com/application-development/swift-3-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786460899), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Swift 4 Programming Cookbook
+This is the code repository for [Swift 4 Programming Cookbook](https://www.packtpub.com/application-development/swift-4-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786460899), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Swift is an exciting, general purpose programming language. It's open sourcing and porting to Linux present many opportunities to use Swift outside of iOS and OSX app development. As a result, it's a great time to become a Swift developer!
 
