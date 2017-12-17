@@ -34,6 +34,3 @@ To follow along with the examples in this book, you will need a computer running
 
 * [Swift 3 Functional Programming](https://www.packtpub.com/application-development/swift-3-functional-programming?utm_source=github&utm_medium=repository&utm_campaign=9781785883880)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
-
